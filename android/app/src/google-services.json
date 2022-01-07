@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293963558839",
+    "project_id": "emailpasswordauth-dd56e",
+    "storage_bucket": "emailpasswordauth-dd56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293963558839:android:403401d0924d445f4e0232",
+        "android_client_info": {
+          "package_name": "com.example.tubesku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293963558839-pk0g28d34vk1o5ip1jm92c2l5hgvkfsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDpta6HrwXnRPdvHyUMWTIXrxub65v5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293963558839-pk0g28d34vk1o5ip1jm92c2l5hgvkfsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
